@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 ## About Me<br><br>I am currently working on building full-stack applications such as Wearify (a rental and e-commerce platform) and backend systems using Spring Boot.<br><br>I am interested in collaborating on full-stack web development projects, open-source contributions, and innovative product-based ideas.<br><br>I am seeking guidance in advanced backend development, system design, and scalable architecture.<br><br>Currently, I am learning Java Spring Boot, Salesforce (PD1 and Agentforce), Data Structures and Algorithms, and full-stack development.<br><br>You can ask me about Java, Spring Boot, DSA (LeetCode), <br>Salesforce, and backend development.<br><br>I enjoy converting ideas into real-world applications and continuously improving my technical skills.
 
